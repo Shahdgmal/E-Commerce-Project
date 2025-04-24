@@ -1,97 +1,39 @@
-The data is E-Commerce Data:
+# E-Commerce Performance Dashboard Analysis In TABLEAU
 
-Order Priority:
-Indicates the urgency or priority of an order, often categorized as high, medium, or low priority.
+## Project Objective
+- Evaluate overall sales performance and profitability
+- Identify top-performing product categories, customer segments, and regions
+- Analyze shipping preferences and order patterns to optimize logistics
+- Provide actionable insights to increase revenue and profit margins
 
-Discount:
-The percentage or monetary value of the discount applied to the order.
+## DataSet Used
+- <a href="">DataSet</a>
 
-Unit Price:
-The selling price of a single unit of the product.
+## Dashboard
+- <a href="">DataSet</a>
 
-Shipping Cost:
-The cost incurred for shipping the product to the customer.
+## Key Questions & KPIs
+### Sales & Profitability Analysis
+- Which product categories (Technology, Furniture, Office Supplies) drive the most sales and profit?
+- What is the average order value ($1,419) and how can it be improved?
+- How do sales vary by region (West, Central, South, East)?
 
-Customer ID:
-A unique identifier assigned to each customer.
+### Customer Behavior
+- Which customer segments (Corporate, Home Office, Consumer, Small Business) generate the highest revenue?
+- What are the preferred shipping methods (Regular Air, Delivery Truck, Express Air)?
 
-Customer Name:
-The name of the customer who placed the order.
+### Operational Efficiency
+- How does product packaging (Small Pack, Jumbo Box, Medium Box, Jumbo Drum) impact sales?
+- What are the order trends by weekday to optimize inventory and staffing?
 
-Ship Mode:
-The method of shipping used for the order (e.g., Ground, Air, Express).
+## Key Insights
+- Technology leads in sales (713K) and profit(75K), followed by Furniture (672Ksales,62K profit).
+- Jumbo Drum packaging accounts for 25% of total sales ($492K), indicating high demand for bulk items.
+- West region outperforms others (526K sales), while South lags(357K).
+- Corporate customers contribute 24% of sales ($464K), making them the most valuable segment.
+- Regular Air shipping is preferred by 82% of customers (928 out of 1,130), suggesting cost or speed advantages.
+- 25,417 units ordered across 1,365 orders, with an average of 18.6 units per order.
+- Mid-week (Tuesday–Thursday) sees the highest sales, peaking on Tuesday (264K).
 
-Customer Segment:
-Categorization of customers based on their characteristics (e.g., Consumer, Corporate, Small Business).
-
-Product Category:
-The broad category under which the product falls (e.g., Furniture, Technology, Office Supplies).
-
-Product Sub-Category:
-A more specific classification of the product within the broader category (e.g., for "Technology" it could be "Laptops").
-
-Product Container:
-Refers to the packaging or container type used for the product (e.g., Box, Bag, Case).
-
-Product Name:
-The specific name of the product (e.g., "Laptop Model X").
-
-Product Base Margin:
-The profit margin for the product before considering discounts and shipping.
-
-Country:
-The country where the customer is located.
-
-Region:
-The larger geographic area in which the customer resides (e.g., North America, Europe).
-
-State or Province:
-The specific state or province where the customer is located.
-
-City:
-The city where the customer is located.
-
-Postal Code:
-The postal code or ZIP code of the customer's location.
-
-Order Date:
-The date the customer placed the order.
-
-Ship Date:
-The date the order was shipped.
-
-Profit:
-The profit made from the order after accounting for sales, discounts, and costs (such as shipping and manufacturing).
-
-Quantity Ordered:
-The number of units of the product that were ordered.
-
-Sales:
-The total sales revenue generated from the order, typically calculated as:
-
-Order ID:
-A unique identifier assigned to each order
-
-
-🌟 E-commerce Dashboard in Tableau! 🌟
-
-I just completed a dynamic E-commerce dashboard that transforms raw data into clear, actionable insights.
-
-This project showcases a holistic view of sales performance and customer behavior, enhanced by interactive filters and tooltips for deeper exploration. 
-
-
-Here are some highlights:
-
-📈 Dashboard Insights:
-
-Total Sales: $1.94M | Profit: $227K
-
-Weekly Sales Trends – Spotting peak days to maximize engagement 📅
-
-Top Customer Segments – Understanding each segment’s contribution, from Corporate to Small Business 🤝
-
-Product Preferences – Insights into container types, product categories, and regional demand 📦
-
-Shipping Choices – Visualizing customer preferences for delivery modes 🚚
-
-🛠️ With filters and tooltips integrated throughout the dashboard, users can dive into specific data points, explore individual segments, and make informed, data-driven decisions.
+## Conclusion
+- The e-commerce business shows strong performance in Technology and Corporate segments, with opportunities to optimize logistics, regional sales, and weekday demand patterns. By focusing on high-margin categories and improving operational efficiency, revenue can grow by 15–20% with minimal cost increases.
