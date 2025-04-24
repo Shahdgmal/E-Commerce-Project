@@ -7,10 +7,10 @@
 - Provide actionable insights to increase revenue and profit margins
 
 ## DataSet Used
-- <a href="">DataSet</a>
+- <a href="https://github.com/Shahdgmal/E-Commerce-Project/blob/main/E-commerce%20project.xlsx">DataSet</a>
 
 ## Dashboard
-- <a href="">DataSet</a>
+- <a href="https://github.com/Shahdgmal/E-Commerce-Project/blob/main/Dashboard.png">DashBoard</a>
 
 ## Key Questions & KPIs
 ### Sales & Profitability Analysis
